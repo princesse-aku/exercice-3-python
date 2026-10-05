@@ -88,12 +88,3 @@ une génération de vidéo.
 
 Chaque étape permet de refaire l'action ou de passer à l'étape suivante.
 
-
-
-
-
-⚠️ \*\*Ne mets surtout pas ta vraie clé dans `README.md` ou `.env.example`.\*\*
-
-
-
-Quand tu as remplacé et enregistré le README, dis-moi \*\*« c'est bon »\*\*.
